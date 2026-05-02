@@ -10,7 +10,7 @@ Este proyecto aplica técnicas de aprendizaje automático supervisado para prede
 
 El objetivo es construir un pipeline reproducible que permita evaluar qué modelo ofrece el mejor equilibrio entre precisión y explicabilidad en un contexto médico.
 
-## Colaborador
+## Colaboradores
 
 - David Márquez
 - Cristian Linero
