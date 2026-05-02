@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto aplica técnicas de **aprendizaje automático supervisado** para predecir la presencia de **enfermedad cardíaca** a partir de variables clínicas y demográficas. Se desarrollan y comparan modelos **bayesianos (Naive Bayes)** y un modelo **no bayesiano (Regresión Logística)**, con énfasis en:
+Este proyecto aplica técnicas de aprendizaje automático supervisado para predecir la presencia de enfermedad cardíaca a partir de variables clínicas y demográficas. Se desarrollan y comparan modelos bayesianos (Naive Bayes) y un modelo no bayesiano (Regresión Logística), con énfasis en:
 
 - Interpretabilidad clínica
 - Eficiencia computacional
