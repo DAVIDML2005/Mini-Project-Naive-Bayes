@@ -12,8 +12,8 @@ El objetivo es construir un pipeline reproducible que permita evaluar qué model
 
 ## Colaboradores
 
-- David Marquez
-- Cristian Linero
+- David Ricardo Marquez Luna (
+- Cristian Camilo Linero Cantillo (@cristianclc)
 
 ## Dataset
 
